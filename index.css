@@ -1,4 +1,5 @@
 @media(max-width:768px){
+    overflow:auto;
     .header{
         background-color: darkblue;
         height: 40px;
